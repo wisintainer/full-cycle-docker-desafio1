@@ -1,1 +1,3 @@
-# full-cycle-docker-desafio1
+LINK PARA A IMAGEM NO DOCKER HUB:
+
+https://hub.docker.com/repository/docker/wisintainer/hellogo/general
